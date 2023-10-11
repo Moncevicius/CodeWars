@@ -7,7 +7,8 @@
  * Assume the test input string is always a valid string. For example, the test input may be "1 year old" or
  * "5 years old". The first character in the string is always a number.
  *
- *
+ * @param inputString string
+ * @return int number
  */
 
 function getAge(inputString){
